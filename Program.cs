@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 
 namespace iCMD
 {
-    class Program
+  class Program
   {
     private static readonly string SystemMessage = "You are a senior system administrator. Your job is to generate windows powershell or Linux shell command based on user's query. Respond concisely only with the powershell or bash command in plain text with no formatting, no greetings, no thank you, no request, no references and no additional words.";
     private static readonly bool UseReflection = false;
