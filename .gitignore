@@ -1,0 +1,35 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.cache
+
+# Ignore Visual Studio 2019/2022 temporary files, build results, and
+# build log files.
+*.rsuser
+.vscode/
+*.code-workspace
+.vscode/settings.json
+.vscode/tasks.json
+*.vs/
+.vs/
+ 
+
+# Ignore SDK-style project files
+*.csproj.user
+*.csproj.FileListAbsolute.txt
+*.csproj.vspscc
+
+
+# Ignore macOS system files 
+.DS_Store
+
+# Ignore log files 
+*.log 
+
+# Ignore crash reports 
+*.crash
