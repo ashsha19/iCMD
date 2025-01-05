@@ -66,7 +66,7 @@ dotnet run
 ## Example
 
 ```sh
-Current Working Directory: D:\Experimental\C#\iCMD
+Current Working Directory: D:\abc\xyz\iCMD
 Enter your natural language query (type 'quit' or 'exit' to terminate):
 > show all files
 Generating shell command...
@@ -76,6 +76,8 @@ Command Generated: Get-ChildItem -Path .
 Do you want to execute this command? (yes/no)
 > yes
 ```
+
+![sample run](https://raw.githubusercontent.com/ashsha19/iCMD/refs/heads/main/Screenshot%202025-01-05%20235349.png)
 
 ## Note
 
